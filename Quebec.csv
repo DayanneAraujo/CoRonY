@@ -1,0 +1,27 @@
+date	pruid	prname	prnameFR	numconf	numprob	numdeaths	numtotal	numtoday	numtested
+01-03-2020	24	Quebec	Québec	1	0	0	1	1	
+03-03-2020	24	Quebec	Québec	1	0	0	1	0	
+05-03-2020	24	Quebec	Québec	2	0	0	2	1	
+06-03-2020	24	Quebec	Québec	2	0	0	2	0	
+07-03-2020	24	Quebec	Québec	2	0	0	2	0	
+08-03-2020	24	Quebec	Québec	3	0	0	3	1	
+09-03-2020	24	Quebec	Québec	4	0	0	4	1	
+11-03-2020	24	Quebec	Québec	7	0	0	7	3	
+12-03-2020	24	Quebec	Québec	13	0	0	13	6	
+13-03-2020	24	Quebec	Québec	17	0	0	17	4	
+14-03-2020	24	Quebec	Québec	17	0	0	17	0	
+15-03-2020	24	Quebec	Québec	24	0	0	24	7	
+16-03-2020	24	Quebec	Québec	39	0	0	39	15	
+17-03-2020	24	Quebec	Québec	50	0	0	50	11	
+18-03-2020	24	Quebec	Québec	74	0	0	74	24	
+19-03-2020	24	Quebec	Québec	121	0	0	121	47	
+20-03-2020	24	Quebec	Québec	139	0	1	139	18	
+21-03-2020	24	Quebec	Québec	202	19	4	221	82	
+22-03-2020	24	Quebec	Québec	221	0	4	221	0	
+23-03-2020	24	Quebec	Québec	221	407	4	628	407	
+24-03-2020	24	Quebec	Québec	221	792	4	1013	385	
+25-03-2020	24	Quebec	Québec	1339	0	6	1339	326	
+26-03-2020	24	Quebec	Québec	1629	0	8	1629	290	
+27-03-2020	24	Quebec	Québec	2021	0	18	2021	392	
+28-03-2020	24	Quebec	Québec	2498	0	22	2498	477	
+29-03-2020	24	Quebec	Québec	2498	0	22	2498	0	
